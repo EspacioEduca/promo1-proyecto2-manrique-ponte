@@ -1,0 +1,228 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.xiaomi {
+    border: solid 5px orangered;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.imagen1 {
+    width: 200px;
+    height: 125px;
+    padding: 8px;
+    border-radius: 25%;
+}
+
+.nombre {
+    padding: 10px;
+    margin: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.historia {
+    border: solid orangered;
+    margin: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sede {
+    height: 120px;
+    width: 110px;
+    margin: 8px;
+    padding: 5px;
+}
+
+.royal {
+    margin: 10px;
+    padding: 10px;
+}
+
+p {
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+.historia2 {
+    margin: 10px;
+    padding: 6px;
+}
+
+.productos {
+    display: flex;
+    justify-content: space-around;
+    border: dashed orangered;
+    padding: 25px;
+}
+
+.telefono {
+    width: 200px;
+    height: 150px;
+    border: solid 3px white;
+}
+
+.reloj {
+    width: 200px;
+    height: 150px;
+    border: solid 3px white;
+}
+
+.patin {
+    width: 200px;
+    height: 150px;
+    border: solid 3px white;
+}
+
+.enfoque2 {
+    margin: 10px;
+    padding: 10px;
+}
+
+.enfoque {
+    padding: 10px;
+    border: solid orangered;
+}
+
+.aportaciones {
+    display: flex;
+    justify-content: space-around;
+    border: solid orangered;
+    margin: 20px;
+    padding: 10px;
+}
+
+.colaboracion {
+    width: 200px;
+    height: 150px;
+    border: solid 3px white;
+}
+
+.colaboracion1 {
+    width: 200px;
+    height: 150px;
+    border: solid 3px white;
+}
+
+.innovacion {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border: solid orangered;
+    margin: 10px;
+}
+
+.mi9 {
+    height: 200px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.directivos {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 10px;
+    border: solid orangered;
+}
+
+.lei3 {
+    height: 200px;
+    width: 220px;
+    border-radius: 15px;
+    border: solid white;
+}
+
+.lin {
+    height: 200px;
+    width: 220px;
+    border-radius: 15px;
+    border: solid white;
+}
+
+.liu {
+    height: 200px;
+    width: 220px;
+    border-radius: 15px;
+    border: solid white;
+}
+
+.zhou {
+    height: 200px;
+    width: 220px;
+    border-radius: 15px;
+    border: solid white;
+}
+
+.lei2 {
+    height: 200px;
+    width: 220px;
+    border-radius: 80px;
+    border: solid white;
+    margin: 5px;
+}
+
+.lei {
+    display: flex;
+    justify-content: space-between;
+    border: solid orangered;
+    padding: 10px;
+}
+
+.datosf {
+    margin: 10px;
+    padding: 10px;
+}
+
+.innovador {
+    margin: 10px;
+    padding: 10px;
+}
+
+.sede2 {
+    border: solid white;
+    padding: 3px;
+    margin: 5px;
+}
+
+.p1 {
+    text-align: center;
+}
+
+.colaboraciones {
+    margin: 10px;
+    padding: 10px;
+}
+
+.pr3 {
+    margin: 10px;
+    padding: 10px;
+}
+
+.direc {
+    margin: 10px;
+    padding: 10px;
+}
+
+.redes2 {
+    width: 80px;
+    height: 80px;
+}
+
+.redes {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 10px;
+}
